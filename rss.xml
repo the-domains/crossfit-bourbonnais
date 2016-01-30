@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CrossFit Bourbonnais]]></title>
+        <description><![CDATA[CrossFit Bourbonnais]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 01:27:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/defe0bcb-513d-4ae5-aa97-d3ace440f036.JPG">]]></description>
+            <link>undefined1d4b20f2-d227-417a-942f-fb60d500e789/index.html</link>
+            <guid isPermaLink="false">1d4b20f2-d227-417a-942f-fb60d500e789</guid>
+            <pubDate>Sat, 30 Jan 2016 01:26:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
