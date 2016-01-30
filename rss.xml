@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CrossFit Bourbonnais]]></title>
         <description><![CDATA[CrossFit Bourbonnais]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/crossfit-bourbonnais/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 01:27:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 01:27:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/crossfit-bourbonnais/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/defe0bcb-513d-4ae5-aa97-d3ace440f036.JPG">]]></description>
-            <link>undefined1d4b20f2-d227-417a-942f-fb60d500e789/index.html</link>
+            <link>https://thegrid.ai/crossfit-bourbonnais/1d4b20f2-d227-417a-942f-fb60d500e789/index.html</link>
             <guid isPermaLink="false">1d4b20f2-d227-417a-942f-fb60d500e789</guid>
-            <pubDate>Sat, 30 Jan 2016 01:26:58 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 01:25:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
